@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m currently working on Generative Model, eg., Diffusion Model, GAN.  
+
+:hamburger:My current research work is accepted by International Conference on Pattern Recognization: 
+
 <!--
 **FatLong666/Fatlong666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
