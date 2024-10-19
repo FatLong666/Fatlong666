@@ -4,6 +4,12 @@
 
 :hamburger:My current research work is accepted by International Conference on Pattern Recognization: 
 
+
+
+:pager:Welcome To Visit My HomePage!
+
+![Visitor Count](https://profile-counter.glitch.me/Fatlong666/count.svg)
+
 <!--
 **FatLong666/Fatlong666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
