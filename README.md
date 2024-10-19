@@ -2,7 +2,8 @@
 
 🔭 I’m currently working on Generative Model, eg., Diffusion Model, GAN.  
 
-:hamburger:My current research work is accepted by International Conference on Pattern Recognization: 
+:hamburger:My current research work is accepted by International Conference on Pattern Recognization 2024: [Uploading 00272.pdf…]()
+
 
 
 
