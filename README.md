@@ -6,7 +6,8 @@
 
 #### 🔭 I’m currently working on Generative Model, eg., Diffusion Model, GAN.  
 
-#### :hamburger:My current research work is accepted by International Conference on Pattern Recognization 2024: [Make An Image Move: Few-shot based Video Generation Guided by CLIP]()
+#### :hamburger:My current research work is accepted by International Conference on Pattern Recognization 2024: [Make An Image Move: Few-shot based Video Generation Guided by CLIP](
+https://www.researchgate.net/publication/385080220_Make_An_Image_Move_Few-shot_based_Video_Generation_Guided_by_CLIP)
 
 
 #### :laughing: For More Information Please See My Google Scholar: [YongLong Huang](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=ALUCkoXgfRAz6FN-KkFqnFcFLtVNDFwhSauCKCVjNfqc7RP9760CTxrzfscp2oM2-XALhyF6Jr3F4ZXpYEXcB12Kq8Q&user=YU5Pqq8AAAAJ)
